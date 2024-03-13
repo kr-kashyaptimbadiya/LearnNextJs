@@ -1,8 +1,10 @@
 export default function Home() {
   console.log(process.env.NODE_ENV);
+  console.log(process.env.PASSWORD)
   return (
     <main>
       <h1> Enviroment variable in Next js</h1>
+      
       {process.env.NODE_ENV == "development" ? (
         <h3>This is devlopment mode </h3>
       ) : (
