@@ -11,7 +11,7 @@ export default function Home() {
       <br />
       <br />
       <h2>Dynamic Routing</h2>
-      <Link href="/knackrootlist/"employee>Go to Knackroot Page</Link>
+      <Link href="/knackrootlist/">Go to Knackroot Page</Link>
       <br />
       <br />
       <h2>Nested Routing</h2>

@@ -10,7 +10,7 @@ export default function page() {
           </Link>
         </li>
         <li>
-          <Link href={`/knackrootlist/Jay`}>
+          <Link href="/knackrootlist/Jay">
             Jay
           </Link>
         </li>
