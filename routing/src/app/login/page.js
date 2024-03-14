@@ -1,8 +1,7 @@
-export default function page(){
-    return(
-        <>
-        <h1>Login Here</h1>
-        </>
-    );
-
+export default function page() {
+  return (
+    <>
+      <h1>Login Here</h1>
+    </>
+  );
 }

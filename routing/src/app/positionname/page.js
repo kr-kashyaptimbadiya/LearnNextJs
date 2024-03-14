@@ -1,7 +1,7 @@
-export default function Page(){
-    return(
-        <>
-            <h1>All position Details</h1>
-        </>
-    ); 
+export default function Page() {
+  return (
+    <>
+      <h1>All position Details</h1>
+    </>
+  );
 }
